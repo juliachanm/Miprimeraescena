@@ -1,0 +1,554 @@
+fileFormatVersion: 2
+guid: 24fe5ca6837679d4e8582954400a223b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: olas1.png_0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 219.33334
+        width: 108.28571
+        height: 109.666664
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea97d397872c229448105c7104eb357c
+      internalID: 2141435242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olas1.png_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 219.33334
+        width: 108.28571
+        height: 109.666664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f745b977bc7363740bb466b438723ab1
+      internalID: -234496821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olas1.png_2
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 219.33334
+        width: 108.28571
+        height: 109.666664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a65ec6206d60d2479d1ae92de2bfae2
+      internalID: -1309868737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olas1.png_3
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 219.33334
+        width: 108.28571
+        height: 109.666664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c0ff05dda7df646b8deccceda64d1c
+      internalID: 1728804473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olas1.png_4
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 219.33334
+        width: 108.28571
+        height: 109.666664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc916d123f694c4e971f14637fe35f6
+      internalID: -1071689854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olas1.png_5
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 219.33334
+        width: 108.28571
+        height: 109.666664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad11cbba41e38741b0899ac41a5a619
+      internalID: -1256148692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olas1.png_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110.333336
+        width: 108.28571
+        height: 109.666664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f29aeff7488884d9fe88c689e66f99
+      internalID: 1979587218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olas1.png_7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 110.333336
+        width: 108.28571
+        height: 109.666664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8d1429769f96041b0ee86e1ea19ad7
+      internalID: -2027260781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olas1.png_8
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 110.333336
+        width: 108.28571
+        height: 109.666664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fab040d82d296549b7d54fe926b9c20
+      internalID: 723215225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olas1.png_9
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 110.333336
+        width: 108.28571
+        height: 109.666664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8816669655efdd64a81b480f32f51636
+      internalID: 888018388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olas1.png_10
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 110.333336
+        width: 108.28571
+        height: 109.666664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68fa16fef9fe0f45ba0991dad264ab7
+      internalID: 1466721081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olas1.png_11
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 110.333336
+        width: 108.28571
+        height: 109.666664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1664c2c9bd9fa2549a64195d48ebe1fc
+      internalID: -191609425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olas1.png_12
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 110.333336
+        width: 108.28571
+        height: 109.666664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e80cde967ad30c41a813803e87d48c4
+      internalID: 1617086568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olas1.png_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.3333359
+        width: 108.28571
+        height: 109.666664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3ca88e61a2ecf4d8173cd307ead961
+      internalID: 682291101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olas1.png_14
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1.3333359
+        width: 108.28571
+        height: 109.666664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4a8965804c3a34c9aeee194733e95e
+      internalID: -600826974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olas1.png_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1.3333359
+        width: 108.28571
+        height: 109.666664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7dc5d5e5422874292fb00beb0f8e0f
+      internalID: -1372646006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olas1.png_16
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1.3333359
+        width: 108.28571
+        height: 109.666664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929d774f686566443899130f68a38340
+      internalID: 1330264802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olas1.png_17
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1.3333359
+        width: 108.28571
+        height: 109.666664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100954be381a27f46933f7b17bebf7a2
+      internalID: -1222930153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olas1.png_18
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1.3333359
+        width: 108.28571
+        height: 109.666664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b915098b4beb66479f82fa1436ea2b3
+      internalID: -379214694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: olas1.png_19
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1.3333359
+        width: 108.28571
+        height: 109.666664
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aabf36bf28fc6f4c9d2f9ed6134692f
+      internalID: -673283957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      olas1.png_0: 2141435242
+      olas1.png_1: -234496821
+      olas1.png_10: 1466721081
+      olas1.png_11: -191609425
+      olas1.png_12: 1617086568
+      olas1.png_13: 682291101
+      olas1.png_14: -600826974
+      olas1.png_15: -1372646006
+      olas1.png_16: 1330264802
+      olas1.png_17: -1222930153
+      olas1.png_18: -379214694
+      olas1.png_19: -673283957
+      olas1.png_2: -1309868737
+      olas1.png_3: 1728804473
+      olas1.png_4: -1071689854
+      olas1.png_5: -1256148692
+      olas1.png_6: 1979587218
+      olas1.png_7: -2027260781
+      olas1.png_8: 723215225
+      olas1.png_9: 888018388
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

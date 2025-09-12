@@ -1,5 +1,4 @@
-# Archivos y carpetas que no queremos subir
-
+# Carpetas generadas por Unity que no deben subirse
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -7,6 +6,8 @@
 [Bb]uilds/
 [Ll]ogs/
 UserSettings/
+
+# Archivos y carpetas de Visual Studio y otros IDEs
 .vs/
 *.csproj
 *.sln
@@ -19,4 +20,39 @@ UserSettings/
 *.mdb
 *.opendb
 *.VC.db
+
+# Archivos específicos de MacOS
 .DS_Store
+
+# Archivos generados por JetBrains Rider
+.idea/
+
+# Archivos de configuración local y caches
+*.swp
+*.swo
+
+# Archivos generados por Unity Cache Server
+Cache/
+
+# Archivos de sistema temporales o de sistema operativo
+Thumbs.db
+Desktop.ini
+
+# Configuración de usuario para Unity (a veces útil ignorar)
+*.csproj.user
+*.unityproj.user
+
+# Evita subir archivos de configuraciones personales específicas
+*.userprefs
+
+# Archivos de log, crash, etc.
+*.log
+
+# Evitar subir archivos de paquetes NuGet
+*.nupkg
+
+# Archivos generados por el sistema de paquetes de Unity (Package Cache)
+Packages/packages-lock.json
+
+# Directorios y archivos de Unity Collaborate (si no usas Collaborate puedes ignorar)
+.collabignore
